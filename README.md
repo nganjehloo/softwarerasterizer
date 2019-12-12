@@ -1,3 +1,5 @@
 # softwarerasterizer
 
-Shitty software raterizer based on swGL, and tinyrenderer
+A software rasterizer written entirely in C++
+
+TODO: Binning for multithreading support
